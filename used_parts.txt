@@ -1,18 +1,13 @@
 The basic electronic and mechanical parts used in the project are listed below:
-Arduino Uno:
 
-3 Optical IR KY-026 Fire Detection Sensors
-
-4 DC Motors
-
-Motor Driver Board (L298N)
-
-Water Pump (12V)
-
-Servo Motor
-Robot Chassis with Wheels
-
-Breadboard, 99pf Capacitor, 122 TIP Transistor, 2 x 1N4001 Diodes, 2k Ohm Resistors
-13 Volt/2000mA Battery
-Switching System
-Water Tank
+-Arduino Uno
+-3 Optical IR KY-026 Fire Detection Sensors
+-4 DC Motors
+-Motor Driver Board (L298N)
+-Water Pump (12V)
+-Servo Motor
+-Robot Chassis with Wheels
+-Breadboard, 99pf Capacitor, 122 TIP Transistor, 2 x 1N4001 Diodes, 2k Ohm Resistors
+ 13 Volt/2000mA Battery
+-Switching System
+-Water Tank
